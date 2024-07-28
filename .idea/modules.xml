@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ICodeGame.iml" filepath="$PROJECT_DIR$/.idea/modules/ICodeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/ICodeGame.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/ICodeGame.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/ICodeGame.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/ICodeGame.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/ICodeGame.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/ICodeGame.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lwjgl3/ICodeGame.lwjgl3.iml" filepath="$PROJECT_DIR$/.idea/modules/lwjgl3/ICodeGame.lwjgl3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lwjgl3/ICodeGame.lwjgl3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lwjgl3/ICodeGame.lwjgl3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lwjgl3/ICodeGame.lwjgl3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lwjgl3/ICodeGame.lwjgl3.test.iml" />
+    </modules>
+  </component>
+</project>
